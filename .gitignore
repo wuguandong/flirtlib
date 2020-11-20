@@ -3,3 +3,4 @@ lib*
 build
 *.kate-swp
 external/gefp
+CMakeLists.txt.user*
